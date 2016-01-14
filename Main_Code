@@ -2,9 +2,18 @@
 #click on edit file to begin
 #don't forget to commit changes
 
-hello test
-
-
-
-
-
+public class mainClass {
+  
+  public class robotInit() {
+  
+  }
+  
+  public class autonomousRobot() {
+  
+  }
+  
+  public class teleopRobot() {
+  
+  }
+  
+  
